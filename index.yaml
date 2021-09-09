@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  hello-app:
+  - apiVersion: v2
+    appVersion: 2.0.0
+    created: "2021-09-09T15:32:07.402649454Z"
+    description: A Helm chart for Kubernetes
+    digest: 7059441f89272141770ee6d2bf422e2e4b4ddfdffbe2a42f426f778140a88003
+    name: hello-app
+    type: application
+    urls:
+    - https://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@https:/github.com/Chude-Telco/Helm-repo/hello-app-2.0.0.tgz
+    version: 2.0.0
+generated: "2021-09-09T15:32:07.4016084Z"
